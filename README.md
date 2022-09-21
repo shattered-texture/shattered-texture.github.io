@@ -1,3 +1,3 @@
 # shattered-texture.github.io
 
-##(C) Shattered Texture. All rights reserved.
+## (C) Shattered Texture. All rights reserved.
