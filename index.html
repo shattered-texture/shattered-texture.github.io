@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+  <body onload="Load()"></body>
+  <script>
+    const userLocale = navigator.languages && navigator.languages.length ? navigator.languages[0] : navigator.language;
+    
+    function Load() 
+    {
+      /* if (userLocale.includes("de"))
+      {
+        window.replace("https://shattered-texture.github.io/de/", "_self")
+      }
+      else
+      */
+      window.replace("https://shattered-texture.github.io/en/", "_self")
+    }
+  </script>
+</html>
